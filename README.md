@@ -19,4 +19,4 @@ This GitHub repository contains code for a deep learning project that focuses on
 15. Provides a summary of each trained model's architecture.
 16. Downloads an example image of steak for demonstration purposes.
 
-The code is well-documented and includes explanations and comments to guide the reader through the different steps. This repository serves as a comprehensive guide for building and training CNN models for image classification tasks using TensorFlow.
+The code is well-documented and includes explanations and comments to guide the reader through the different steps. 
